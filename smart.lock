@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "ace-editor": {}
+    },
+    "packages": {
+      "ace-editor": {
+        "git": "https://github.com/unional/meteor-ace-editor.git",
+        "tag": "v0.0.1",
+        "commit": "e93ad2fdce25c65ce247ebdd07c7d9377803ce06"
+      }
+    }
+  }
+}
