@@ -1,5 +1,7 @@
 {
   "packages": {
-    "ace-editor": {}
+    "ace-editor": {
+        "path": "../meteor-ace-editor"
+    }
   }
 }
